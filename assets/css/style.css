@@ -4,18 +4,17 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    
-  }
-body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
     color: white;
+    /* background-image: linear-gradient(black,gold); */
+    line-height: 2rem;
     text-align: center;
-    font-size: 18px;
-    margin: 0 auto;
-}
-
-imgFormat {
-    width: 600px;
-    height:400px;
-    float: left;
-    size:auto
+  }
+.imgFormat {
+   
+    
+    opacity: .8;
+  
+    
 }
